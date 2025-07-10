@@ -6,5 +6,6 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenyyk&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" height="200"/>
+  <a href="https://jenyyk.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenyyk&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" height="200"/></a>
 </div>
